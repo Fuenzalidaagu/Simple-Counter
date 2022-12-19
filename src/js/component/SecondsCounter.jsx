@@ -57,7 +57,7 @@ function Counter() {
   	<div className='Counter'>
 		<div className='clock'>
     		<i class="fa-solid fa-clock-nine"></i>
-			<p>4geeks</p>
+			<p>🕘</p>
 		</div>
     		<div className='four'>
 				{formattedTime}
