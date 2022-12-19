@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 
-function Timer() {
+function Counter() {
   const [time, setTime] = useState(0);
   const [initialTime, setInitialTime] = useState(0);
   const [isRunning, setIsRunning] = useState(false);
@@ -76,6 +76,6 @@ function Timer() {
   );
 }
 
-export default Timer;
+export default Counter;
 
 
